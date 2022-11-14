@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.container {
+  background: rgb(rgb(222, 186, 186), rgb(199, 207, 199), rgb(118, 118, 223))
+}
